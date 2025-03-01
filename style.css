@@ -15,6 +15,12 @@ body{
     padding-top: 2%;
     padding-bottom: 2%;
 }
+
+.gallery-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 .navbar a{
     font-size: large;
     text-decoration: none;
@@ -22,4 +28,13 @@ body{
 
 .home-content-div{
     text-align: center;
+}
+.gallery-content button{
+    border-radius: 30%;
+    padding: 1%;
+    margin: 1%;
+    border-color: rgb(218, 238, 245);
+    font-weight: bold;
+    font-size: x-large;
+    height: 1%;
 }
