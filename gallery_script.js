@@ -4,13 +4,17 @@ const imageGallery = [
     "https://images.firstpost.com/uploads/2025/03/Champions-trophy-final-reserve-day-2025-03-3d90bbaf2891165292a24216b359a7b9-1200x675.jpg?im=FitAndFill=(596,336)",
     "https://www.hindustantimes.com/ht-img/img/2025/03/04/550x309/rahul_jadeja_getty_1741104924146_1741104939355.jpg",
     "https://c.ndtvimg.com/2025-03/ml59v3dg_team-australia-afp_625x300_04_March_25.jpg?im=FitAndFill,algorithm=dnn,width=806,height=605",
+    "https://www.wisden.com/static-assets/waf-images/62/82/12/16-9/ludNKveZeo.jpg?v=23.07&w=600",
+    "https://img1.hscicdn.com/image/upload/f_auto,t_ds_wide_w_960,q_50/lsci/db/PICTURES/CMS/397900/397907.6.jpg"
 ]
 const imageText = [
     "Virat Kohli makes 100 on the last ball, winning the Ind vs Pak match for India ",
     "The India vs Pakistan match, arguably the greatest sporting rivalry in the world",
     "New Zealand Cricketer Glenn Philips attempts to direct hit run-out Hardik Pandya from India ",
     "KL Rahul and Ravindra Jadeja celebrate their partnership against Australia",
-    "Adam Zampa celebrates taking a Pakistani wicket"
+    "Adam Zampa celebrates taking a Pakistani wicket",
+    "Axar Patel batting against New Zealand during the Champions Trophy Final in Dubai, UAE",
+    "The 100-run partnership between Rohit Sharma and Shubman Gill"
 ]
 const imageElement = document.getElementById("gallery-image");
 const prevButton = document.getElementById("prev-btn");
