@@ -10,7 +10,7 @@ const imageGallery = [
     "https://img.olympics.com/images/image/private/t_s_16_9_g_auto/t_s_w960/f_auto/primary/p8vh7uk1as9uedgdr3us",
     "https://www.livehindustan.com/lh-img/smart/img/2025/03/09/1600x900/CRICKET-CT-2025-IND-NZL-245_1741537587422_1741537604725.jpg",
     "https://www.hindustantimes.com/ht-img/img/2025/03/09/550x309/indian_cricket_1741539396473_1741539408138.jpg",
-    "https://img.etimg.com/thumb/width-420,height-315,imgsize-42568,resizemode-75,msid-118822689/news/sports/rohit-sharma-a-captain-who-leads-with-a-hitman-mentality-delivering-trophies-champions-trophy-2025/rohit-sharma-virat-kohli.jpg"
+    
 ]
 const imageText = [
     "Virat Kohli makes 100 on the last ball, winning the Ind vs Pak match for India ",
@@ -24,7 +24,7 @@ const imageText = [
     "Spinner Varun Chakravarty runs up to the crease",
     "KL Rahul and Ravindra Jadeja finish off in style with a boundary",
     "The Indian Celebration after Jadeja hits the last ball for four runs",
-    "Indian captain Rohit Sharma and top-order batsman Virat Kohli celebrate by fencing with the match stumps"
+    
 ]
 const imageElement = document.getElementById("gallery-image");
 const prevButton = document.getElementById("prev-btn");
